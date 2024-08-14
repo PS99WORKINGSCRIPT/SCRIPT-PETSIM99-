@@ -1,0 +1,3 @@
+Paste this into your executor and let the magic happen!
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PS99WORKINGSCRIPT/PS99-SCRIPT-DUPE-AUTOFARM/main/Script.txt", true))()
